@@ -16,8 +16,6 @@ export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
 
 export const categories = [
   { name: 'All', icon: <HomeIcon />, },
-  { name: 'Jujutsu Kaisen', icon: <LiveTvIcon />, },
-  { name: 'Coco Melon', icon: <LiveTvIcon />, },
   { name: 'Coding', icon: <CodeIcon />, },
   { name: 'JS Mastery', icon: <CodeIcon />, },
   { name: 'ReactJS', icon: <CodeIcon />, },
@@ -28,7 +26,6 @@ export const categories = [
   { name: 'Podcast', icon: <GraphicEqIcon />, },
   { name: 'Movie', icon: <OndemandVideoIcon />, },
   { name: 'Gaming', icon: <SportsEsportsIcon />, },
-  { name: 'Roblox', icon: <SportsEsportsIcon />, },
   { name: 'Live', icon: <LiveTvIcon />, },
   { name: 'Sport', icon: <FitnessCenterIcon />, },
   { name: 'Fashion', icon: <CheckroomIcon />, },
